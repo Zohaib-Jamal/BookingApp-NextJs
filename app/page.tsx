@@ -87,7 +87,7 @@ export default function Home() {
             />
             <div className="p-3 absolute inset-0 flex flex-col justify-end items-start text-white bg-black/50 rounded-lg">
               <h4 className="text-2xl font-bold">
-                New Year's Eve in New York City
+                New Year&apos;s Eve in New York City
               </h4>
               <span className="text-left">
                 Ring in New Year with iconic moments and unforgettable memories
@@ -140,7 +140,7 @@ const BlogCard = () => {
       />
       <div className="px-3 pb-2">
         <h4 className="font-semibold text-lg ">
-          New Year's Eve in New York City
+          New Year&apos;s Eve in New York City
         </h4>
         <span className="text-left font-light text-sm">
           Ring in New Year with iconic moments and unforgettable memories in New
